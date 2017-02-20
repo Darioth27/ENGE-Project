@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc3230e39a114044d9f63b02b3b78edd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {instanceID: 0}
+  - enemy1: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - manaBar: {instanceID: 0}
+  - p1BarBackground: {instanceID: 0}
+  - p1Profile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

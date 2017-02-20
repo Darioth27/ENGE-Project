@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{349193CB-948A-3BD5-938E-F9C93B37F99D}") = "ENGE Project", "Assembly-CSharp-vs.csproj", "{B459E8DE-F7C0-ED64-8FCE-9EDF7121B5E8}"
+EndProject
+Project("{349193CB-948A-3BD5-938E-F9C93B37F99D}") = "ENGE Project", "Assembly-CSharp-Editor-vs.csproj", "{163C381B-8780-E139-93EF-274EC14F064F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B459E8DE-F7C0-ED64-8FCE-9EDF7121B5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B459E8DE-F7C0-ED64-8FCE-9EDF7121B5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B459E8DE-F7C0-ED64-8FCE-9EDF7121B5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B459E8DE-F7C0-ED64-8FCE-9EDF7121B5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163C381B-8780-E139-93EF-274EC14F064F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163C381B-8780-E139-93EF-274EC14F064F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163C381B-8780-E139-93EF-274EC14F064F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163C381B-8780-E139-93EF-274EC14F064F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.PropertyBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.CatchNewLinePlacement = DoNotCare
+		$2.WhileNewLinePlacement = DoNotCare
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.DotNetNamingPolicy = $4
+		$4.DirectoryNamespaceAssociation = None
+		$4.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+
+EndGlobal
